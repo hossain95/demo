@@ -1,7 +1,7 @@
 ---
-name: Exabyting1
+name: ExabytingUpdate
 address: Mohakhali DOHS
-website: https://exabyting.com1
+website: https://exabyting.com/update
 facebook: facebook.com/exabyting1
 linkedIn: linkedin.com/exabyting1
 ---
