@@ -1,9 +1,9 @@
 ---
-name: Exabyting
+name: Exabyting1
 address: Mohakhali DOHS
-website: https://exabyting.com
-facebook: facebook.com/exabyting
-linkedIn:
+website: https://exabyting.com1
+facebook: facebook.com/exabyting1
+linkedIn: linkedin.com/exabyting1
 ---
 
 # competitive-programmer-profile
