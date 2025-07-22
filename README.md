@@ -1,9 +1,9 @@
 ---
-name: "Exabyting",
-address: "Mohakhali DOHS",
-website: "https://exabyting.com",
-facebook: "facebook.com/exabyting",
-linkedIn: "linkedin.com/exabyting"
+name: Exabyting
+address: Mohakhali DOHS
+website: https://exabyting.com
+facebook: "facebook.com/exabyting
+linkedIn: linkedin.com/exabyting
 ---
 
 # competitive-programmer-profile
