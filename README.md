@@ -1,9 +1,9 @@
 ---
-name: ExabytingUpdate
+name: Exabyting
 address: Mohakhali DOHS
-website: https://exabyting.com/update
-facebook: facebook.com/exabyting1
-linkedIn: linkedin.com/exabyting1
+website: https://exabyting.com
+facebook: facebook.com/exabyting
+linkedIn: linkedin.com/exabyting
 ---
 
 # competitive-programmer-profile
@@ -25,3 +25,4 @@ site link:: https://hossain95.github.io/competitive-programmer-profile/
 * Json
 * Ajax
 * JQuery
+updated
