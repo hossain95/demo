@@ -3,7 +3,7 @@ name: Exabyting
 address: Mohakhali DOHS
 website: https://exabyting.com
 facebook: facebook.com/exabyting
-linkedIn: linkedin.com/exabyting
+linkedIn:
 ---
 
 # competitive-programmer-profile
