@@ -25,5 +25,3 @@ site link:: https://hossain95.github.io/competitive-programmer-profile/
 * Json
 * Ajax
 * JQuery
-
----
