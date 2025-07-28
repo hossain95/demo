@@ -3,7 +3,8 @@ name: Exabyting
 address: Mohakhali DOHS
 website: https://exabyting.com
 facebook: facebook.com/exabyting
-linkedIn:
+linkedIn: linkedin.com/exabyting
+technology: [Java, Spring Boot, JavaScript]
 ---
 
 
