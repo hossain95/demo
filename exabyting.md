@@ -1,6 +1,6 @@
 ---
 name: Exabyting
-address: Mohakhali DOHS
+address: Mohakhali DOHS Updated
 website: https://exabyting.com
 facebook: facebook.com/exabyting
 linkedIn: linkedin.com/exabyting
@@ -8,7 +8,7 @@ technology: [Java, Spring Boot, JavaScript]
 ---
 
 
-# Exabyting
+# Exabyting Updated
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
