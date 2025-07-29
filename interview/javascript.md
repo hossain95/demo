@@ -2,7 +2,7 @@
 name: JavaScript Update
 ---
 
-# Exabyting
+## JavaScript updated
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
