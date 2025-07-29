@@ -1,8 +1,8 @@
 ---
-name: Python
+name: Python Updated
 ---
 
-# Exabyting
+# Python
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
