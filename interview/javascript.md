@@ -1,3 +1,7 @@
+---
+name: JavaScript
+---
+
 # Exabyting
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
